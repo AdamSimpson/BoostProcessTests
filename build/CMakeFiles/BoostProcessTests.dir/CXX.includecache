@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/atj/CLionProjects/BoostProcessTests/main.cpp
+iostream
+-
+boost/process.hpp
+/home/atj/CLionProjects/BoostProcessTests/boost/process.hpp
+boost/asio.hpp
+/home/atj/CLionProjects/BoostProcessTests/boost/asio.hpp
+boost/asio/spawn.hpp
+/home/atj/CLionProjects/BoostProcessTests/boost/asio/spawn.hpp
+
