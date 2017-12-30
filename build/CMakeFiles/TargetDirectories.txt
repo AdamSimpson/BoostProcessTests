@@ -1,3 +1,0 @@
-/home/atj/CLionProjects/BoostProcessTests/build/CMakeFiles/rebuild_cache.dir
-/home/atj/CLionProjects/BoostProcessTests/build/CMakeFiles/BoostProcessTests.dir
-/home/atj/CLionProjects/BoostProcessTests/build/CMakeFiles/edit_cache.dir
