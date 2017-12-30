@@ -27,7 +27,7 @@ XDG_SESSION_TYPE=x11
 
 # Compile with optimization
 ```
-$ g++ -O0 -std=c++14 main.cpp -L/usr/lib -lboost_system -lboost_coroutine -pthread
+$ g++ -O1 -std=c++14 main.cpp -L/usr/lib -lboost_system -lboost_coroutine -pthread
 ```
 # async_read_some returns 0 bytes read every time
 ```
